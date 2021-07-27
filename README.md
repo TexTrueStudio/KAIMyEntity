@@ -1,10 +1,13 @@
 # KAIMyEntity
 Replace Minecraft entity with MMD model.
+本仓库Fork自 [kjkjkAIStudio/KAIMyEntity](https://github.com/kjkjkAIStudio/KAIMyEntity) 原作者已停止更新，原因请看本仓库KAIMyEntityStory/About.md,此模组已有两个重置版。
 
 ## KAIMyEntitySaba
-将Github项目 benikabocha/saba (https://github.com/benikabocha/saba) 魔改成一个以JNI形式Export函数的动态链接库。
+将Github项目 [benikabocha/saba](https://github.com/benikabocha/saba) 魔改成一个以JNI形式Export函数的动态链接库。
 依赖头文件：bullet, glm, spdlog, stb
 依赖库文件：bullet (已编译在KAIMyEntitySaba\bullet\lib)
+KAIMyEntitySaba.dll存储于本仓库KAIMyEntitySabaLib中
+
 
 ## KAIMyEntity_1.12.2 & KAIMyEntity_1.16.5
 API: Forge
