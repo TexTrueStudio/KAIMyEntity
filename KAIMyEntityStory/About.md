@@ -2,6 +2,7 @@
 
 https://www.bilibili.com/video/BV1wL411p728
 
+
 ## 1-1初始
 
 KAIMyEntity模组作者（kjkjkAIStudio）在玩戴森球计划时制作了一个修改人物模型的mod(这里提及的mod为KAIDSPModel)如今无人问津，但这让作者想起在Minecraft1.7.10的一个mod 自定义史蒂夫CustomSteve（以下简称CS） 可以将玩家替换成MMD模型，但由于CS作者（ici2cc）一直没有公布1.12.2的mod消息。KAIMyEntity模组作者（kjkjkAIStudio）准备开发一个类似的mod，但作者对MMD文件解析完全不懂，在Github上遇到了Saba（Saba使用OpenGL/Vulkan/DirectX在Windows显示MMD模型），KAIMyEntity模组作者（kjkjkAIStudio）借用了此项目，开发仅用一周时间就开发出KAIMyEntity的雏形。关于KAIMyEntity的名字作者kjkjkAIStudio在视频内是这么说的：
@@ -28,11 +29,13 @@ KAIMyEntity作者本想自己使用这个mod，但作者为了也能让大家在
 | 2021.3.26 |         （两奈大魔王发布视频将KAIMyEntity与CS对比）          | [动态](https://t.bilibili.com/506522728922109267?tab=2) |
 | 2021.3.27 | 1.4b14（同时宣布KAIMyEntity与KAIDSPModel不再维护，疑似此时发布Last_log） | [动态](https://t.bilibili.com/506725094897883334?tab=2) |
 | 2021.6.25 |              2.1b17（个人开发版）（支持Fabric）              | [动态](https://t.bilibili.com/540224285031208064?tab=2) |
-| 2021.6.28 |               （宣布彻底停止维护KAIMyEntity）                |                            -                            |
+| 2021.6.28 |               （宣布彻底停止维护KAIMyEntity）                |                            ②                            |
 | 2021.7.21 |                 （说明KAIMyEntity停更原因）                  |   [视频](https://www.bilibili.com/video/BV1wL411p728)   |
 | 2021.7.23 | KAIMyEntity-Reborn（为避免再次发生让国外作者catlazer取消开发①） | [动态](https://t.bilibili.com/550444155418775884?tab=2) |
 
 > ①国外作者catlazer表示有人喷他就喷回去
+
+> ②https://github.com/TexTrueStudio/KAIMyEntity/blob/main/KAIMyEntityStory/Snipaste_2021-12-05_14-05-50.png
 
 ## 2-1导火索
 
