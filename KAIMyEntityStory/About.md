@@ -1,6 +1,6 @@
 # KAIMyEntity's Story
 
-
+https://www.bilibili.com/video/BV1wL411p728
 
 ## 1-1初始
 
