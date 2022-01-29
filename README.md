@@ -1,6 +1,6 @@
 # KAIMyEntity
 Replace Minecraft entity with MMD model.
-本仓库Fork自 [kjkjkAIStudio/KAIMyEntity](https://github.com/kjkjkAIStudio/KAIMyEntity) 原作者已停止更新，原因请看本仓库KAIMyEntityStory/About.md,模组文件请去Releases页面，此模组已有两个重置版。本仓库仅为备份KAIMyEntity模组构建文件等。
+本仓库Fork自 [kjkjkAIStudio/KAIMyEntity](https://github.com/kjkjkAIStudio/KAIMyEntity) 原作者已停止更新，原因请看本仓库 [KAIMyEntityStory/About.md](KAIMyEntityStory/About.md) ,模组文件请去Releases页面，此模组已有两个重置版。本仓库仅为备份KAIMyEntity模组构建文件等。
 
 ## KAIMyEntitySaba
 将Github项目 [benikabocha/saba](https://github.com/benikabocha/saba) 魔改成一个以JNI形式Export函数的动态链接库。
